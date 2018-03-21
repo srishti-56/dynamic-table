@@ -1,0 +1,513 @@
+To build a suffix tree ...
+The Wolf and the Lamb 
+ 
+WOLF, meeting with a Lamb astray from the fold, resolved not to
+lay violent hands on him, but to find some plea to justify to the
+Lamb the Wolf's right to eat him. : FULLSTOP
+The Wolf and the Lamb  :  NEWLINE 
+The Wolf and the Lamb  : TITLE
+
+  :  NEWLINE 
+WOLF, meeting with a Lamb astray from the fold, resolved not to v is : 1 should be 1. NEWLINE 
+lay violent hands on him, but to find some plea to justify to the :  NEWLINE 
+Lamb the Wolf's right to eat him. :  NEWLINE 
+  He thus addressed him:
+"Sirrah, last year you grossly insulted me. : FULLSTOP
+  He thus addressed him: :  NEWLINE 
+"Sirrah, last year you grossly insulted me. :  NEWLINE 
+"  "Indeed," bleated
+the Lamb in a mournful tone of voice, "I was not then born. : FULLSTOP
+"  "Indeed," bleated :  NEWLINE 
+the Lamb in a mournful tone of voice, "I was not then born. :  NEWLINE 
+"  Then
+said the Wolf, "You feed in my pasture. : FULLSTOP
+"  Then :  NEWLINE 
+said the Wolf, "You feed in my pasture. :  NEWLINE 
+"  "No, good sir," replied
+the Lamb, "I have not yet tasted grass. : FULLSTOP
+"  "No, good sir," replied :  NEWLINE 
+the Lamb, "I have not yet tasted grass. :  NEWLINE 
+"  Again said the Wolf,
+"You drink of my well. : FULLSTOP
+"  Again said the Wolf, :  NEWLINE 
+"You drink of my well. :  NEWLINE 
+"  "No," exclaimed the Lamb, "I never yet
+drank water, for as yet my mother's milk is both food and drink
+to me. : FULLSTOP
+"  "No," exclaimed the Lamb, "I never yet :  NEWLINE 
+drank water, for as yet my mother's milk is both food and drink :  NEWLINE 
+to me. :  NEWLINE 
+"  Upon which the Wolf seized him and ate him up, saying,
+"Well! I won't remain supperless, even though you refute every
+one of my imputations. : FULLSTOP
+"  Upon which the Wolf seized him and ate him up, saying, :  NEWLINE 
+"Well! I won't remain supperless, even though you refute every :  NEWLINE 
+one of my imputations. :  NEWLINE 
+"  The tyrant will always find a pretext for
+his tyranny. : FULLSTOP
+"  The tyrant will always find a pretext for :  NEWLINE 
+his tyranny. :  NEWLINE 
+
+
+
+The Bat and the Weasels 
+ 
+A BAT who fell upon the ground and was caught by a Weasel pleaded
+to be spared his life. : FULLSTOP
+ :  NEWLINE 
+ v is : 1 should be 1. NEWLINE 
+ v is : 2 should be 2. NEWLINE 
+The Bat and the Weasels  v is : 3 should be 3. NEWLINE 
+The Bat and the Weasels  : TITLE
+
+
+
+
+
+ Sentence up till now 
+  :WOLF, meeting with a Lamb astray from the fold, resolved not to lay violent hands on him, but to find some plea to justify to the Lamb the Wolf's right to eat him.  He thus addressed him: "Sirrah, last year you grossly insulted me."  "Indeed," bleated the Lamb in a mournful tone of voice, "I was not then born."  Then said the Wolf, "You feed in my pasture."  "No, good sir," replied the Lamb, "I have not yet tasted grass."  Again said the Wolf, "You drink of my well."  "No," exclaimed the Lamb, "I never yet drank water, for as yet my mother's milk is both food and drink to me."  Upon which the Wolf seized him and ate him up, saying, "Well! I won't remain supperless, even though you refute every one of my imputations."  The tyrant will always find a pretext for his tyranny.
+
+  :  NEWLINE 
+A BAT who fell upon the ground and was caught by a Weasel pleaded v is : 1 should be 1. NEWLINE 
+to be spared his life. :  NEWLINE 
+  The Weasel refused, saying that he was by
+nature the enemy of all birds. : FULLSTOP
+  The Weasel refused, saying that he was by :  NEWLINE 
+nature the enemy of all birds. :  NEWLINE 
+  The Bat assured him that he was
+not a bird, but a mouse, and thus was set free. : FULLSTOP
+  The Bat assured him that he was :  NEWLINE 
+not a bird, but a mouse, and thus was set free. :  NEWLINE 
+ Shortly
+afterwards the Bat again fell to the ground and was caught by
+another Weasel, whom he likewise entreated not to eat him. : FULLSTOP
+ Shortly :  NEWLINE 
+afterwards the Bat again fell to the ground and was caught by :  NEWLINE 
+another Weasel, whom he likewise entreated not to eat him. :  NEWLINE 
+  The
+Weasel said that he had a special hostility to mice. : FULLSTOP
+  The :  NEWLINE 
+Weasel said that he had a special hostility to mice. :  NEWLINE 
+  The Bat
+assured him that he was not a mouse, but a bat, and thus a second
+time escaped. : FULLSTOP
+  The Bat :  NEWLINE 
+assured him that he was not a mouse, but a bat, and thus a second :  NEWLINE 
+time escaped. :  NEWLINE 
+  
+ 
+It is wise to turn circumstances to good account. : FULLSTOP
+   :  NEWLINE 
+  v is : 1 should be 1. NEWLINE 
+It is wise to turn circumstances to good account. v is : 2 should be 2. NEWLINE 
+It is wise to turn circumstances to good account. : TITLE
+
+
+
+
+
+ Sentence up till now 
+  :WOLF, meeting with a Lamb astray from the fold, resolved not to lay violent hands on him, but to find some plea to justify to the Lamb the Wolf's right to eat him.  He thus addressed him: "Sirrah, last year you grossly insulted me."  "Indeed," bleated the Lamb in a mournful tone of voice, "I was not then born."  Then said the Wolf, "You feed in my pasture."  "No, good sir," replied the Lamb, "I have not yet tasted grass."  Again said the Wolf, "You drink of my well."  "No," exclaimed the Lamb, "I never yet drank water, for as yet my mother's milk is both food and drink to me."  Upon which the Wolf seized him and ate him up, saying, "Well! I won't remain supperless, even though you refute every one of my imputations."  The tyrant will always find a pretext for his tyranny.A BAT who fell upon the ground and was caught by a Weasel pleaded to be spared his life.  The Weasel refused, saying that he was by nature the enemy of all birds.  The Bat assured him that he was not a bird, but a mouse, and thus was set free. Shortly afterwards the Bat again fell to the ground and was caught by another Weasel, whom he likewise entreated not to eat him.  The Weasel said that he had a special hostility to mice.  The Bat assured him that he was not a mouse, but a bat, and thus a second time escaped.
+
+  
+
+
+The Ass and the Grasshopper 
+ 
+AN ASS having heard some Grasshoppers chirping, was highly
+enchanted; and, desiring to possess the same charms of melody,
+demanded what sort of food they lived on to give them such
+beautiful voices. : FULLSTOP
+   :  NEWLINE 
+ v is : 1 should be 1. NEWLINE 
+ v is : 2 should be 2. NEWLINE 
+The Ass and the Grasshopper  v is : 3 should be 3. NEWLINE 
+The Ass and the Grasshopper  : TITLE
+
+
+
+
+
+ Sentence up till now 
+  :WOLF, meeting with a Lamb astray from the fold, resolved not to lay violent hands on him, but to find some plea to justify to the Lamb the Wolf's right to eat him.  He thus addressed him: "Sirrah, last year you grossly insulted me."  "Indeed," bleated the Lamb in a mournful tone of voice, "I was not then born."  Then said the Wolf, "You feed in my pasture."  "No, good sir," replied the Lamb, "I have not yet tasted grass."  Again said the Wolf, "You drink of my well."  "No," exclaimed the Lamb, "I never yet drank water, for as yet my mother's milk is both food and drink to me."  Upon which the Wolf seized him and ate him up, saying, "Well! I won't remain supperless, even though you refute every one of my imputations."  The tyrant will always find a pretext for his tyranny.A BAT who fell upon the ground and was caught by a Weasel pleaded to be spared his life.  The Weasel refused, saying that he was by nature the enemy of all birds.  The Bat assured him that he was not a bird, but a mouse, and thus was set free. Shortly afterwards the Bat again fell to the ground and was caught by another Weasel, whom he likewise entreated not to eat him.  The Weasel said that he had a special hostility to mice.  The Bat assured him that he was not a mouse, but a bat, and thus a second time escaped.
+
+  :  NEWLINE 
+AN ASS having heard some Grasshoppers chirping, was highly v is : 1 should be 1. NEWLINE 
+enchanted; and, desiring to possess the same charms of melody, :  NEWLINE 
+demanded what sort of food they lived on to give them such :  NEWLINE 
+beautiful voices. :  NEWLINE 
+  They replied, "The dew. : FULLSTOP
+  They replied, "The dew. :  NEWLINE 
+"  The Ass resolved that
+he would live only upon dew, and in a short time died of hunger. : FULLSTOP
+"  The Ass resolved that :  NEWLINE 
+he would live only upon dew, and in a short time died of hunger. :  NEWLINE 
+ 
+
+ 
+The Lion and the Mouse 
+ 
+A LION was awakened from sleep by a Mouse running over his face. : FULLSTOP
+  :  NEWLINE 
+ v is : 1 should be 1. NEWLINE 
+  v is : 2 should be 2. NEWLINE 
+The Lion and the Mouse  v is : 3 should be 3. NEWLINE 
+The Lion and the Mouse  : TITLE
+
+
+
+
+
+ Sentence up till now 
+  :WOLF, meeting with a Lamb astray from the fold, resolved not to lay violent hands on him, but to find some plea to justify to the Lamb the Wolf's right to eat him.  He thus addressed him: "Sirrah, last year you grossly insulted me."  "Indeed," bleated the Lamb in a mournful tone of voice, "I was not then born."  Then said the Wolf, "You feed in my pasture."  "No, good sir," replied the Lamb, "I have not yet tasted grass."  Again said the Wolf, "You drink of my well."  "No," exclaimed the Lamb, "I never yet drank water, for as yet my mother's milk is both food and drink to me."  Upon which the Wolf seized him and ate him up, saying, "Well! I won't remain supperless, even though you refute every one of my imputations."  The tyrant will always find a pretext for his tyranny.A BAT who fell upon the ground and was caught by a Weasel pleaded to be spared his life.  The Weasel refused, saying that he was by nature the enemy of all birds.  The Bat assured him that he was not a bird, but a mouse, and thus was set free. Shortly afterwards the Bat again fell to the ground and was caught by another Weasel, whom he likewise entreated not to eat him.  The Weasel said that he had a special hostility to mice.  The Bat assured him that he was not a mouse, but a bat, and thus a second time escaped.AN ASS having heard some Grasshoppers chirping, was highly enchanted; and, desiring to possess the same charms of melody, demanded what sort of food they lived on to give them such beautiful voices.  They replied, "The dew."  The Ass resolved that he would live only upon dew, and in a short time died of hunger.
+
+  :  NEWLINE 
+A LION was awakened from sleep by a Mouse running over his face. v is : 1 should be 1. NEWLINE 
+ 
+Rising up angrily, he caught him and was about to kill him, when
+the Mouse piteously entreated, saying:  "If you would only spare
+my life, I would be sure to repay your kindness. : FULLSTOP
+  :  NEWLINE 
+Rising up angrily, he caught him and was about to kill him, when v is : 1 should be 1. NEWLINE 
+the Mouse piteously entreated, saying:  "If you would only spare :  NEWLINE 
+my life, I would be sure to repay your kindness. :  NEWLINE 
+"  The Lion
+laughed and let him go. : FULLSTOP
+"  The Lion :  NEWLINE 
+laughed and let him go. :  NEWLINE 
+  It happened shortly after this that the
+Lion was caught by some hunters, who bound him by st ropes to the
+ground. : FULLSTOP
+  It happened shortly after this that the :  NEWLINE 
+Lion was caught by some hunters, who bound him by st ropes to the :  NEWLINE 
+ground. :  NEWLINE 
+  The Mouse, recognizing his roar, came gnawed the rope
+with his teeth, and set him free, exclaim
+ 
+"You ridiculed the idea of my ever being able to help you,
+expecting to receive from me any repayment of your favor; I now
+you know that it is possible for even a Mouse to con benefits on
+a Lion. : FULLSTOP
+  The Mouse, recognizing his roar, came gnawed the rope :  NEWLINE 
+with his teeth, and set him free, exclaim :  NEWLINE 
+  :  NEWLINE 
+"You ridiculed the idea of my ever being able to help you, v is : 1 should be 1. NEWLINE 
+expecting to receive from me any repayment of your favor; I now :  NEWLINE 
+you know that it is possible for even a Mouse to con benefits on :  NEWLINE 
+a Lion. :  NEWLINE 
+"  
+ 
+
+The Charcoal-Burner and the Fuller 
+ 
+A CHARCOAL-BURNER carried on his trade in his own house. : FULLSTOP
+"   :  NEWLINE 
+  :  NEWLINE 
+ v is : 1 should be 1. NEWLINE 
+The Charcoal-Burner and the Fuller  v is : 2 should be 2. NEWLINE 
+The Charcoal-Burner and the Fuller  : TITLE
+
+
+
+
+
+ Sentence up till now 
+  :WOLF, meeting with a Lamb astray from the fold, resolved not to lay violent hands on him, but to find some plea to justify to the Lamb the Wolf's right to eat him.  He thus addressed him: "Sirrah, last year you grossly insulted me."  "Indeed," bleated the Lamb in a mournful tone of voice, "I was not then born."  Then said the Wolf, "You feed in my pasture."  "No, good sir," replied the Lamb, "I have not yet tasted grass."  Again said the Wolf, "You drink of my well."  "No," exclaimed the Lamb, "I never yet drank water, for as yet my mother's milk is both food and drink to me."  Upon which the Wolf seized him and ate him up, saying, "Well! I won't remain supperless, even though you refute every one of my imputations."  The tyrant will always find a pretext for his tyranny.A BAT who fell upon the ground and was caught by a Weasel pleaded to be spared his life.  The Weasel refused, saying that he was by nature the enemy of all birds.  The Bat assured him that he was not a bird, but a mouse, and thus was set free. Shortly afterwards the Bat again fell to the ground and was caught by another Weasel, whom he likewise entreated not to eat him.  The Weasel said that he had a special hostility to mice.  The Bat assured him that he was not a mouse, but a bat, and thus a second time escaped.AN ASS having heard some Grasshoppers chirping, was highly enchanted; and, desiring to possess the same charms of melody, demanded what sort of food they lived on to give them such beautiful voices.  They replied, "The dew."  The Ass resolved that he would live only upon dew, and in a short time died of hunger.A LION was awakened from sleep by a Mouse running over his face.Rising up angrily, he caught him and was about to kill him, when the Mouse piteously entreated, saying:  "If you would only spare my life, I would be sure to repay your kindness."  The Lion laughed and let him go.  It happened shortly after this that the Lion was caught by some hunters, who bound him by st ropes to the ground.  The Mouse, recognizing his roar, came gnawed the rope with his teeth, and set him free, exclaim "You ridiculed the idea of my ever being able to help you, expecting to receive from me any repayment of your favor; I now you know that it is possible for even a Mouse to con benefits on a Lion."   
+
+  :  NEWLINE 
+A CHARCOAL-BURNER carried on his trade in his own house. v is : 1 should be 1. NEWLINE 
+  One day
+he met a friend, a Fuller, and entreated him to come and live
+with him, saying that they should be far better neighbors and
+that their housekeeping expenses would be lessened. : FULLSTOP
+  One day :  NEWLINE 
+he met a friend, a Fuller, and entreated him to come and live :  NEWLINE 
+with him, saying that they should be far better neighbors and :  NEWLINE 
+that their housekeeping expenses would be lessened. :  NEWLINE 
+  The Fuller
+replied, "The arrangement is impossible as far as I am concerned,
+for whatever I should whiten, you would immediately blacken again
+with your charcoal. : FULLSTOP
+  The Fuller :  NEWLINE 
+replied, "The arrangement is impossible as far as I am concerned, :  NEWLINE 
+for whatever I should whiten, you would immediately blacken again :  NEWLINE 
+with your charcoal. :  NEWLINE 
+"
+
+Like will draw like. : FULLSTOP
+" :  NEWLINE 
+ :  NEWLINE 
+Like will draw like. v is : 1 should be 1. NEWLINE 
+   
+
+
+The Father and His Sons 
+ 
+A FATHER had a family of sons who were perpetually quarreling
+among themselves. : FULLSTOP
+    :  NEWLINE 
+ v is : 1 should be 1. NEWLINE 
+ v is : 2 should be 2. NEWLINE 
+The Father and His Sons  v is : 3 should be 3. NEWLINE 
+The Father and His Sons  : TITLE
+
+
+
+
+
+ Sentence up till now 
+  :WOLF, meeting with a Lamb astray from the fold, resolved not to lay violent hands on him, but to find some plea to justify to the Lamb the Wolf's right to eat him.  He thus addressed him: "Sirrah, last year you grossly insulted me."  "Indeed," bleated the Lamb in a mournful tone of voice, "I was not then born."  Then said the Wolf, "You feed in my pasture."  "No, good sir," replied the Lamb, "I have not yet tasted grass."  Again said the Wolf, "You drink of my well."  "No," exclaimed the Lamb, "I never yet drank water, for as yet my mother's milk is both food and drink to me."  Upon which the Wolf seized him and ate him up, saying, "Well! I won't remain supperless, even though you refute every one of my imputations."  The tyrant will always find a pretext for his tyranny.A BAT who fell upon the ground and was caught by a Weasel pleaded to be spared his life.  The Weasel refused, saying that he was by nature the enemy of all birds.  The Bat assured him that he was not a bird, but a mouse, and thus was set free. Shortly afterwards the Bat again fell to the ground and was caught by another Weasel, whom he likewise entreated not to eat him.  The Weasel said that he had a special hostility to mice.  The Bat assured him that he was not a mouse, but a bat, and thus a second time escaped.AN ASS having heard some Grasshoppers chirping, was highly enchanted; and, desiring to possess the same charms of melody, demanded what sort of food they lived on to give them such beautiful voices.  They replied, "The dew."  The Ass resolved that he would live only upon dew, and in a short time died of hunger.A LION was awakened from sleep by a Mouse running over his face.Rising up angrily, he caught him and was about to kill him, when the Mouse piteously entreated, saying:  "If you would only spare my life, I would be sure to repay your kindness."  The Lion laughed and let him go.  It happened shortly after this that the Lion was caught by some hunters, who bound him by st ropes to the ground.  The Mouse, recognizing his roar, came gnawed the rope with his teeth, and set him free, exclaim "You ridiculed the idea of my ever being able to help you, expecting to receive from me any repayment of your favor; I now you know that it is possible for even a Mouse to con benefits on a Lion."   A CHARCOAL-BURNER carried on his trade in his own house.  One day he met a friend, a Fuller, and entreated him to come and live with him, saying that they should be far better neighbors and that their housekeeping expenses would be lessened.  The Fuller replied, "The arrangement is impossible as far as I am concerned, for whatever I should whiten, you would immediately blacken again with your charcoal." Like will draw like.
+
+  :  NEWLINE 
+A FATHER had a family of sons who were perpetually quarreling v is : 1 should be 1. NEWLINE 
+among themselves. :  NEWLINE 
+  When he failed to heal their disputes by his
+exhortations, he determined to give them a practical illustration
+of the evils of disunion; and for this purpose he one day told
+them to bring him a bundle of sticks. : FULLSTOP
+  When he failed to heal their disputes by his :  NEWLINE 
+exhortations, he determined to give them a practical illustration :  NEWLINE 
+of the evils of disunion; and for this purpose he one day told :  NEWLINE 
+them to bring him a bundle of sticks. :  NEWLINE 
+  When they had done so, he
+placed the faggot into the hands of each of them in succession,
+and ordered them to break it in pieces. : FULLSTOP
+  When they had done so, he :  NEWLINE 
+placed the faggot into the hands of each of them in succession, :  NEWLINE 
+and ordered them to break it in pieces. :  NEWLINE 
+  They tried with all
+their strength, and were not able to do it. : FULLSTOP
+  They tried with all :  NEWLINE 
+their strength, and were not able to do it. :  NEWLINE 
+  He next opened the
+faggot, took the sticks separately, one by one, and again put
+them into his sons' hands, upon which they broke them easily. : FULLSTOP
+  He next opened the :  NEWLINE 
+faggot, took the sticks separately, one by one, and again put :  NEWLINE 
+them into his sons' hands, upon which they broke them easily. :  NEWLINE 
+  He
+then addressed them in these words:  "My sons, if you are of one
+mind, and unite to assist each other, you will be as this faggot,
+uninjured by all the attempts of your enemies; but if you are
+divided among yourselves, you will be broken as easily as these
+sticks. : FULLSTOP
+  He :  NEWLINE 
+then addressed them in these words:  "My sons, if you are of one :  NEWLINE 
+mind, and unite to assist each other, you will be as this faggot, :  NEWLINE 
+uninjured by all the attempts of your enemies; but if you are :  NEWLINE 
+divided among yourselves, you will be broken as easily as these :  NEWLINE 
+sticks. :  NEWLINE 
+"
+ 
+
+The Boy Hunting Locusts 
+ 
+A BOY was hunting for locusts. : FULLSTOP
+" :  NEWLINE 
+  :  NEWLINE 
+ v is : 1 should be 1. NEWLINE 
+The Boy Hunting Locusts  v is : 2 should be 2. NEWLINE 
+The Boy Hunting Locusts  : TITLE
+
+
+
+
+
+ Sentence up till now 
+  :WOLF, meeting with a Lamb astray from the fold, resolved not to lay violent hands on him, but to find some plea to justify to the Lamb the Wolf's right to eat him.  He thus addressed him: "Sirrah, last year you grossly insulted me."  "Indeed," bleated the Lamb in a mournful tone of voice, "I was not then born."  Then said the Wolf, "You feed in my pasture."  "No, good sir," replied the Lamb, "I have not yet tasted grass."  Again said the Wolf, "You drink of my well."  "No," exclaimed the Lamb, "I never yet drank water, for as yet my mother's milk is both food and drink to me."  Upon which the Wolf seized him and ate him up, saying, "Well! I won't remain supperless, even though you refute every one of my imputations."  The tyrant will always find a pretext for his tyranny.A BAT who fell upon the ground and was caught by a Weasel pleaded to be spared his life.  The Weasel refused, saying that he was by nature the enemy of all birds.  The Bat assured him that he was not a bird, but a mouse, and thus was set free. Shortly afterwards the Bat again fell to the ground and was caught by another Weasel, whom he likewise entreated not to eat him.  The Weasel said that he had a special hostility to mice.  The Bat assured him that he was not a mouse, but a bat, and thus a second time escaped.AN ASS having heard some Grasshoppers chirping, was highly enchanted; and, desiring to possess the same charms of melody, demanded what sort of food they lived on to give them such beautiful voices.  They replied, "The dew."  The Ass resolved that he would live only upon dew, and in a short time died of hunger.A LION was awakened from sleep by a Mouse running over his face.Rising up angrily, he caught him and was about to kill him, when the Mouse piteously entreated, saying:  "If you would only spare my life, I would be sure to repay your kindness."  The Lion laughed and let him go.  It happened shortly after this that the Lion was caught by some hunters, who bound him by st ropes to the ground.  The Mouse, recognizing his roar, came gnawed the rope with his teeth, and set him free, exclaim "You ridiculed the idea of my ever being able to help you, expecting to receive from me any repayment of your favor; I now you know that it is possible for even a Mouse to con benefits on a Lion."   A CHARCOAL-BURNER carried on his trade in his own house.  One day he met a friend, a Fuller, and entreated him to come and live with him, saying that they should be far better neighbors and that their housekeeping expenses would be lessened.  The Fuller replied, "The arrangement is impossible as far as I am concerned, for whatever I should whiten, you would immediately blacken again with your charcoal." Like will draw like.A FATHER had a family of sons who were perpetually quarreling among themselves.  When he failed to heal their disputes by his exhortations, he determined to give them a practical illustration of the evils of disunion; and for this purpose he one day told them to bring him a bundle of sticks.  When they had done so, he placed the faggot into the hands of each of them in succession, and ordered them to break it in pieces.  They tried with all their strength, and were not able to do it.  He next opened the faggot, took the sticks separately, one by one, and again put them into his sons' hands, upon which they broke them easily.  He then addressed them in these words:  "My sons, if you are of one mind, and unite to assist each other, you will be as this faggot, uninjured by all the attempts of your enemies; but if you are divided among yourselves, you will be broken as easily as these sticks." 
+
+  :  NEWLINE 
+A BOY was hunting for locusts. v is : 1 should be 1. NEWLINE 
+  He had caught a goodly number,
+when he saw a Scorpion, and mistaking him for a locust, reached
+out his hand to take him. : FULLSTOP
+  He had caught a goodly number, :  NEWLINE 
+when he saw a Scorpion, and mistaking him for a locust, reached :  NEWLINE 
+out his hand to take him. :  NEWLINE 
+  The Scorpion, showing his sting, said:
+If you had but touched me, my friend, you would have lost me, and
+all your locusts too!"  
+ 
+
+The Cock and the Jewel 
+ 
+A COCK, scratching for food for himself and his hens, found a
+precious stone and exclaimed:  "If your owner had found thee, and
+not I, he would have taken thee up, and have set thee in thy
+first estate; but I have found thee for no purpose. : FULLSTOP
+  The Scorpion, showing his sting, said: :  NEWLINE 
+If you had but touched me, my friend, you would have lost me, and :  NEWLINE 
+all your locusts too!"   :  NEWLINE 
+  :  NEWLINE 
+ v is : 1 should be 1. NEWLINE 
+The Cock and the Jewel  v is : 2 should be 2. NEWLINE 
+The Cock and the Jewel  : TITLE
+
+
+
+
+
+ Sentence up till now 
+  :WOLF, meeting with a Lamb astray from the fold, resolved not to lay violent hands on him, but to find some plea to justify to the Lamb the Wolf's right to eat him.  He thus addressed him: "Sirrah, last year you grossly insulted me."  "Indeed," bleated the Lamb in a mournful tone of voice, "I was not then born."  Then said the Wolf, "You feed in my pasture."  "No, good sir," replied the Lamb, "I have not yet tasted grass."  Again said the Wolf, "You drink of my well."  "No," exclaimed the Lamb, "I never yet drank water, for as yet my mother's milk is both food and drink to me."  Upon which the Wolf seized him and ate him up, saying, "Well! I won't remain supperless, even though you refute every one of my imputations."  The tyrant will always find a pretext for his tyranny.A BAT who fell upon the ground and was caught by a Weasel pleaded to be spared his life.  The Weasel refused, saying that he was by nature the enemy of all birds.  The Bat assured him that he was not a bird, but a mouse, and thus was set free. Shortly afterwards the Bat again fell to the ground and was caught by another Weasel, whom he likewise entreated not to eat him.  The Weasel said that he had a special hostility to mice.  The Bat assured him that he was not a mouse, but a bat, and thus a second time escaped.AN ASS having heard some Grasshoppers chirping, was highly enchanted; and, desiring to possess the same charms of melody, demanded what sort of food they lived on to give them such beautiful voices.  They replied, "The dew."  The Ass resolved that he would live only upon dew, and in a short time died of hunger.A LION was awakened from sleep by a Mouse running over his face.Rising up angrily, he caught him and was about to kill him, when the Mouse piteously entreated, saying:  "If you would only spare my life, I would be sure to repay your kindness."  The Lion laughed and let him go.  It happened shortly after this that the Lion was caught by some hunters, who bound him by st ropes to the ground.  The Mouse, recognizing his roar, came gnawed the rope with his teeth, and set him free, exclaim "You ridiculed the idea of my ever being able to help you, expecting to receive from me any repayment of your favor; I now you know that it is possible for even a Mouse to con benefits on a Lion."   A CHARCOAL-BURNER carried on his trade in his own house.  One day he met a friend, a Fuller, and entreated him to come and live with him, saying that they should be far better neighbors and that their housekeeping expenses would be lessened.  The Fuller replied, "The arrangement is impossible as far as I am concerned, for whatever I should whiten, you would immediately blacken again with your charcoal." Like will draw like.A FATHER had a family of sons who were perpetually quarreling among themselves.  When he failed to heal their disputes by his exhortations, he determined to give them a practical illustration of the evils of disunion; and for this purpose he one day told them to bring him a bundle of sticks.  When they had done so, he placed the faggot into the hands of each of them in succession, and ordered them to break it in pieces.  They tried with all their strength, and were not able to do it.  He next opened the faggot, took the sticks separately, one by one, and again put them into his sons' hands, upon which they broke them easily.  He then addressed them in these words:  "My sons, if you are of one mind, and unite to assist each other, you will be as this faggot, uninjured by all the attempts of your enemies; but if you are divided among yourselves, you will be broken as easily as these sticks." A BOY was hunting for locusts.  He had caught a goodly number, when he saw a Scorpion, and mistaking him for a locust, reached out his hand to take him.  The Scorpion, showing his sting, said: If you had but touched me, my friend, you would have lost me, and all your locusts too!"   
+
+  :  NEWLINE 
+A COCK, scratching for food for himself and his hens, found a v is : 1 should be 1. NEWLINE 
+precious stone and exclaimed:  "If your owner had found thee, and :  NEWLINE 
+not I, he would have taken thee up, and have set thee in thy :  NEWLINE 
+first estate; but I have found thee for no purpose. :  NEWLINE 
+  I would
+rather have one barleycorn than all the jewels in the world. : FULLSTOP
+  I would :  NEWLINE 
+rather have one barleycorn than all the jewels in the world. :  NEWLINE 
+"  
+ 
+
+The Kingdom of the Lion 
+ 
+THE BEASTS of the field and forest had a Lion as their king. : FULLSTOP
+"   :  NEWLINE 
+  :  NEWLINE 
+ v is : 1 should be 1. NEWLINE 
+The Kingdom of the Lion  v is : 2 should be 2. NEWLINE 
+The Kingdom of the Lion  : TITLE
+
+
+
+
+
+ Sentence up till now 
+  :WOLF, meeting with a Lamb astray from the fold, resolved not to lay violent hands on him, but to find some plea to justify to the Lamb the Wolf's right to eat him.  He thus addressed him: "Sirrah, last year you grossly insulted me."  "Indeed," bleated the Lamb in a mournful tone of voice, "I was not then born."  Then said the Wolf, "You feed in my pasture."  "No, good sir," replied the Lamb, "I have not yet tasted grass."  Again said the Wolf, "You drink of my well."  "No," exclaimed the Lamb, "I never yet drank water, for as yet my mother's milk is both food and drink to me."  Upon which the Wolf seized him and ate him up, saying, "Well! I won't remain supperless, even though you refute every one of my imputations."  The tyrant will always find a pretext for his tyranny.A BAT who fell upon the ground and was caught by a Weasel pleaded to be spared his life.  The Weasel refused, saying that he was by nature the enemy of all birds.  The Bat assured him that he was not a bird, but a mouse, and thus was set free. Shortly afterwards the Bat again fell to the ground and was caught by another Weasel, whom he likewise entreated not to eat him.  The Weasel said that he had a special hostility to mice.  The Bat assured him that he was not a mouse, but a bat, and thus a second time escaped.AN ASS having heard some Grasshoppers chirping, was highly enchanted; and, desiring to possess the same charms of melody, demanded what sort of food they lived on to give them such beautiful voices.  They replied, "The dew."  The Ass resolved that he would live only upon dew, and in a short time died of hunger.A LION was awakened from sleep by a Mouse running over his face.Rising up angrily, he caught him and was about to kill him, when the Mouse piteously entreated, saying:  "If you would only spare my life, I would be sure to repay your kindness."  The Lion laughed and let him go.  It happened shortly after this that the Lion was caught by some hunters, who bound him by st ropes to the ground.  The Mouse, recognizing his roar, came gnawed the rope with his teeth, and set him free, exclaim "You ridiculed the idea of my ever being able to help you, expecting to receive from me any repayment of your favor; I now you know that it is possible for even a Mouse to con benefits on a Lion."   A CHARCOAL-BURNER carried on his trade in his own house.  One day he met a friend, a Fuller, and entreated him to come and live with him, saying that they should be far better neighbors and that their housekeeping expenses would be lessened.  The Fuller replied, "The arrangement is impossible as far as I am concerned, for whatever I should whiten, you would immediately blacken again with your charcoal." Like will draw like.A FATHER had a family of sons who were perpetually quarreling among themselves.  When he failed to heal their disputes by his exhortations, he determined to give them a practical illustration of the evils of disunion; and for this purpose he one day told them to bring him a bundle of sticks.  When they had done so, he placed the faggot into the hands of each of them in succession, and ordered them to break it in pieces.  They tried with all their strength, and were not able to do it.  He next opened the faggot, took the sticks separately, one by one, and again put them into his sons' hands, upon which they broke them easily.  He then addressed them in these words:  "My sons, if you are of one mind, and unite to assist each other, you will be as this faggot, uninjured by all the attempts of your enemies; but if you are divided among yourselves, you will be broken as easily as these sticks." A BOY was hunting for locusts.  He had caught a goodly number, when he saw a Scorpion, and mistaking him for a locust, reached out his hand to take him.  The Scorpion, showing his sting, said: If you had but touched me, my friend, you would have lost me, and all your locusts too!"   A COCK, scratching for food for himself and his hens, found a precious stone and exclaimed:  "If your owner had found thee, and not I, he would have taken thee up, and have set thee in thy first estate; but I have found thee for no purpose.  I would rather have one barleycorn than all the jewels in the world."   
+
+  :  NEWLINE 
+THE BEASTS of the field and forest had a Lion as their king. v is : 1 should be 1. NEWLINE 
+  He
+was neither wrathful, cruel, nor tyrannical, but just and gentle
+as a king could be. : FULLSTOP
+  He :  NEWLINE 
+was neither wrathful, cruel, nor tyrannical, but just and gentle :  NEWLINE 
+as a king could be. :  NEWLINE 
+  During his reign he made a royal
+proclamation for a general assembly of all the birds and beasts,
+and drew up conditions for a universal league, in which the Wolf
+and the Lamb, the Panther and the Kid, the Tiger and the Stag,
+the Dog and the Hare, should live together in perfect peace and
+amity. : FULLSTOP
+  During his reign he made a royal :  NEWLINE 
+proclamation for a general assembly of all the birds and beasts, :  NEWLINE 
+and drew up conditions for a universal league, in which the Wolf :  NEWLINE 
+and the Lamb, the Panther and the Kid, the Tiger and the Stag, :  NEWLINE 
+the Dog and the Hare, should live together in perfect peace and :  NEWLINE 
+amity. :  NEWLINE 
+  The Hare said, "Oh, how I have longed to see this day, in
+which the weak shall take their place with impunity by the side
+of the strong. : FULLSTOP
+  The Hare said, "Oh, how I have longed to see this day, in :  NEWLINE 
+which the weak shall take their place with impunity by the side :  NEWLINE 
+of the strong. :  NEWLINE 
+"  And after the Hare said this, he ran for his
+life. : FULLSTOP
+"  And after the Hare said this, he ran for his :  NEWLINE 
+life. :  NEWLINE 
+  
+ 
+
+The Wolf and the Crane 
+ 
+A WOLF who had a bone stuck in his throat hired a Crane, for a
+large sum, to put her head into his mouth and draw out the bone. : FULLSTOP
+   :  NEWLINE 
+  v is : 1 should be 1. NEWLINE 
+ v is : 2 should be 2. NEWLINE 
+The Wolf and the Crane  v is : 3 should be 3. NEWLINE 
+The Wolf and the Crane  : TITLE
+
+
+
+
+
+ Sentence up till now 
+  :WOLF, meeting with a Lamb astray from the fold, resolved not to lay violent hands on him, but to find some plea to justify to the Lamb the Wolf's right to eat him.  He thus addressed him: "Sirrah, last year you grossly insulted me."  "Indeed," bleated the Lamb in a mournful tone of voice, "I was not then born."  Then said the Wolf, "You feed in my pasture."  "No, good sir," replied the Lamb, "I have not yet tasted grass."  Again said the Wolf, "You drink of my well."  "No," exclaimed the Lamb, "I never yet drank water, for as yet my mother's milk is both food and drink to me."  Upon which the Wolf seized him and ate him up, saying, "Well! I won't remain supperless, even though you refute every one of my imputations."  The tyrant will always find a pretext for his tyranny.A BAT who fell upon the ground and was caught by a Weasel pleaded to be spared his life.  The Weasel refused, saying that he was by nature the enemy of all birds.  The Bat assured him that he was not a bird, but a mouse, and thus was set free. Shortly afterwards the Bat again fell to the ground and was caught by another Weasel, whom he likewise entreated not to eat him.  The Weasel said that he had a special hostility to mice.  The Bat assured him that he was not a mouse, but a bat, and thus a second time escaped.AN ASS having heard some Grasshoppers chirping, was highly enchanted; and, desiring to possess the same charms of melody, demanded what sort of food they lived on to give them such beautiful voices.  They replied, "The dew."  The Ass resolved that he would live only upon dew, and in a short time died of hunger.A LION was awakened from sleep by a Mouse running over his face.Rising up angrily, he caught him and was about to kill him, when the Mouse piteously entreated, saying:  "If you would only spare my life, I would be sure to repay your kindness."  The Lion laughed and let him go.  It happened shortly after this that the Lion was caught by some hunters, who bound him by st ropes to the ground.  The Mouse, recognizing his roar, came gnawed the rope with his teeth, and set him free, exclaim "You ridiculed the idea of my ever being able to help you, expecting to receive from me any repayment of your favor; I now you know that it is possible for even a Mouse to con benefits on a Lion."   A CHARCOAL-BURNER carried on his trade in his own house.  One day he met a friend, a Fuller, and entreated him to come and live with him, saying that they should be far better neighbors and that their housekeeping expenses would be lessened.  The Fuller replied, "The arrangement is impossible as far as I am concerned, for whatever I should whiten, you would immediately blacken again with your charcoal." Like will draw like.A FATHER had a family of sons who were perpetually quarreling among themselves.  When he failed to heal their disputes by his exhortations, he determined to give them a practical illustration of the evils of disunion; and for this purpose he one day told them to bring him a bundle of sticks.  When they had done so, he placed the faggot into the hands of each of them in succession, and ordered them to break it in pieces.  They tried with all their strength, and were not able to do it.  He next opened the faggot, took the sticks separately, one by one, and again put them into his sons' hands, upon which they broke them easily.  He then addressed them in these words:  "My sons, if you are of one mind, and unite to assist each other, you will be as this faggot, uninjured by all the attempts of your enemies; but if you are divided among yourselves, you will be broken as easily as these sticks." A BOY was hunting for locusts.  He had caught a goodly number, when he saw a Scorpion, and mistaking him for a locust, reached out his hand to take him.  The Scorpion, showing his sting, said: If you had but touched me, my friend, you would have lost me, and all your locusts too!"   A COCK, scratching for food for himself and his hens, found a precious stone and exclaimed:  "If your owner had found thee, and not I, he would have taken thee up, and have set thee in thy first estate; but I have found thee for no purpose.  I would rather have one barleycorn than all the jewels in the world."   THE BEASTS of the field and forest had a Lion as their king.  He was neither wrathful, cruel, nor tyrannical, but just and gentle as a king could be.  During his reign he made a royal proclamation for a general assembly of all the birds and beasts, and drew up conditions for a universal league, in which the Wolf and the Lamb, the Panther and the Kid, the Tiger and the Stag, the Dog and the Hare, should live together in perfect peace and amity.  The Hare said, "Oh, how I have longed to see this day, in which the weak shall take their place with impunity by the side of the strong."  And after the Hare said this, he ran for his life.
+
+  :  NEWLINE 
+A WOLF who had a bone stuck in his throat hired a Crane, for a v is : 1 should be 1. NEWLINE 
+large sum, to put her head into his mouth and draw out the bone. :  NEWLINE 
+ 
+When the Crane had extracted the bone and demanded the promised
+payment, the Wolf, grinning and grinding his teeth, exclaimed:
+"Why, you have surely already had a sufficient recompense, in
+having been permitted to draw out your head in safety from the
+mouth and jaws of a wolf. : FULLSTOP
+  :  NEWLINE 
+When the Crane had extracted the bone and demanded the promised v is : 1 should be 1. NEWLINE 
+payment, the Wolf, grinning and grinding his teeth, exclaimed: :  NEWLINE 
+"Why, you have surely already had a sufficient recompense, in :  NEWLINE 
+having been permitted to draw out your head in safety from the :  NEWLINE 
+mouth and jaws of a wolf. :  NEWLINE 
+"  
+ 
+In serving the wicked, expect no reward, and be thankful if you
+escape injury for your pains. : FULLSTOP
+"   :  NEWLINE 
+  :  NEWLINE 
+In serving the wicked, expect no reward, and be thankful if you v is : 1 should be 1. NEWLINE 
+escape injury for your pains. :  NEWLINE 
+  
+ 
+
+The Fisherman Piping 
+ 
+A FISHERMAN skilled in music took his flute and his nets to the
+seashore. : FULLSTOP
+   :  NEWLINE 
+  v is : 1 should be 1. NEWLINE 
+ v is : 2 should be 2. NEWLINE 
+The Fisherman Piping  v is : 3 should be 3. NEWLINE 
+The Fisherman Piping  : TITLE
+
+
+
+
+
+ Sentence up till now 
+  :WOLF, meeting with a Lamb astray from the fold, resolved not to lay violent hands on him, but to find some plea to justify to the Lamb the Wolf's right to eat him.  He thus addressed him: "Sirrah, last year you grossly insulted me."  "Indeed," bleated the Lamb in a mournful tone of voice, "I was not then born."  Then said the Wolf, "You feed in my pasture."  "No, good sir," replied the Lamb, "I have not yet tasted grass."  Again said the Wolf, "You drink of my well."  "No," exclaimed the Lamb, "I never yet drank water, for as yet my mother's milk is both food and drink to me."  Upon which the Wolf seized him and ate him up, saying, "Well! I won't remain supperless, even though you refute every one of my imputations."  The tyrant will always find a pretext for his tyranny.A BAT who fell upon the ground and was caught by a Weasel pleaded to be spared his life.  The Weasel refused, saying that he was by nature the enemy of all birds.  The Bat assured him that he was not a bird, but a mouse, and thus was set free. Shortly afterwards the Bat again fell to the ground and was caught by another Weasel, whom he likewise entreated not to eat him.  The Weasel said that he had a special hostility to mice.  The Bat assured him that he was not a mouse, but a bat, and thus a second time escaped.AN ASS having heard some Grasshoppers chirping, was highly enchanted; and, desiring to possess the same charms of melody, demanded what sort of food they lived on to give them such beautiful voices.  They replied, "The dew."  The Ass resolved that he would live only upon dew, and in a short time died of hunger.A LION was awakened from sleep by a Mouse running over his face.Rising up angrily, he caught him and was about to kill him, when the Mouse piteously entreated, saying:  "If you would only spare my life, I would be sure to repay your kindness."  The Lion laughed and let him go.  It happened shortly after this that the Lion was caught by some hunters, who bound him by st ropes to the ground.  The Mouse, recognizing his roar, came gnawed the rope with his teeth, and set him free, exclaim "You ridiculed the idea of my ever being able to help you, expecting to receive from me any repayment of your favor; I now you know that it is possible for even a Mouse to con benefits on a Lion."   A CHARCOAL-BURNER carried on his trade in his own house.  One day he met a friend, a Fuller, and entreated him to come and live with him, saying that they should be far better neighbors and that their housekeeping expenses would be lessened.  The Fuller replied, "The arrangement is impossible as far as I am concerned, for whatever I should whiten, you would immediately blacken again with your charcoal." Like will draw like.A FATHER had a family of sons who were perpetually quarreling among themselves.  When he failed to heal their disputes by his exhortations, he determined to give them a practical illustration of the evils of disunion; and for this purpose he one day told them to bring him a bundle of sticks.  When they had done so, he placed the faggot into the hands of each of them in succession, and ordered them to break it in pieces.  They tried with all their strength, and were not able to do it.  He next opened the faggot, took the sticks separately, one by one, and again put them into his sons' hands, upon which they broke them easily.  He then addressed them in these words:  "My sons, if you are of one mind, and unite to assist each other, you will be as this faggot, uninjured by all the attempts of your enemies; but if you are divided among yourselves, you will be broken as easily as these sticks." A BOY was hunting for locusts.  He had caught a goodly number, when he saw a Scorpion, and mistaking him for a locust, reached out his hand to take him.  The Scorpion, showing his sting, said: If you had but touched me, my friend, you would have lost me, and all your locusts too!"   A COCK, scratching for food for himself and his hens, found a precious stone and exclaimed:  "If your owner had found thee, and not I, he would have taken thee up, and have set thee in thy first estate; but I have found thee for no purpose.  I would rather have one barleycorn than all the jewels in the world."   THE BEASTS of the field and forest had a Lion as their king.  He was neither wrathful, cruel, nor tyrannical, but just and gentle as a king could be.  During his reign he made a royal proclamation for a general assembly of all the birds and beasts, and drew up conditions for a universal league, in which the Wolf and the Lamb, the Panther and the Kid, the Tiger and the Stag, the Dog and the Hare, should live together in perfect peace and amity.  The Hare said, "Oh, how I have longed to see this day, in which the weak shall take their place with impunity by the side of the strong."  And after the Hare said this, he ran for his life.A WOLF who had a bone stuck in his throat hired a Crane, for a large sum, to put her head into his mouth and draw out the bone.When the Crane had extracted the bone and demanded the promised payment, the Wolf, grinning and grinding his teeth, exclaimed: "Why, you have surely already had a sufficient recompense, in having been permitted to draw out your head in safety from the mouth and jaws of a wolf."   In serving the wicked, expect no reward, and be thankful if you escape injury for your pains.
+
+  :  NEWLINE 
+A FISHERMAN skilled in music took his flute and his nets to the v is : 1 should be 1. NEWLINE 
+seashore. :  NEWLINE 
+  Standing on a projecting rock, he played several tunes
+in the hope that the fish, attracted by his melody, would of
+their own accord dance into his net, which he had placed below. : FULLSTOP
+  Standing on a projecting rock, he played several tunes :  NEWLINE 
+in the hope that the fish, attracted by his melody, would of :  NEWLINE 
+their own accord dance into his net, which he had placed below. :  NEWLINE 
+ 
+At last, having long waited in vain, he laid aside his flute, and
+casting his net into the sea, made an excellent haul of fish. : FULLSTOP
+  :  NEWLINE 
+At last, having long waited in vain, he laid aside his flute, and v is : 1 should be 1. NEWLINE 
+casting his net into the sea, made an excellent haul of fish. :  NEWLINE 
+ 
+When he saw them leaping about in the net upon the rock he said:
+"O you most perverse creatures, when I piped you would not dance,
+but now that I have ceased you do so merrily. : FULLSTOP
+  :  NEWLINE 
+When he saw them leaping about in the net upon the rock he said: v is : 1 should be 1. NEWLINE 
+"O you most perverse creatures, when I piped you would not dance, :  NEWLINE 
+but now that I have ceased you do so merrily. :  NEWLINE 
+"  
+ 
+
+. : FULLSTOP
+"   :  NEWLINE 
+  :  NEWLINE 
+ v is : 1 should be 1. NEWLINE 
+. v is : 2 should be 2. NEWLINE 
+. : TITLE
+
+
+
+
+
+ Sentence up till now 
+  :WOLF, meeting with a Lamb astray from the fold, resolved not to lay violent hands on him, but to find some plea to justify to the Lamb the Wolf's right to eat him.  He thus addressed him: "Sirrah, last year you grossly insulted me."  "Indeed," bleated the Lamb in a mournful tone of voice, "I was not then born."  Then said the Wolf, "You feed in my pasture."  "No, good sir," replied the Lamb, "I have not yet tasted grass."  Again said the Wolf, "You drink of my well."  "No," exclaimed the Lamb, "I never yet drank water, for as yet my mother's milk is both food and drink to me."  Upon which the Wolf seized him and ate him up, saying, "Well! I won't remain supperless, even though you refute every one of my imputations."  The tyrant will always find a pretext for his tyranny.A BAT who fell upon the ground and was caught by a Weasel pleaded to be spared his life.  The Weasel refused, saying that he was by nature the enemy of all birds.  The Bat assured him that he was not a bird, but a mouse, and thus was set free. Shortly afterwards the Bat again fell to the ground and was caught by another Weasel, whom he likewise entreated not to eat him.  The Weasel said that he had a special hostility to mice.  The Bat assured him that he was not a mouse, but a bat, and thus a second time escaped.AN ASS having heard some Grasshoppers chirping, was highly enchanted; and, desiring to possess the same charms of melody, demanded what sort of food they lived on to give them such beautiful voices.  They replied, "The dew."  The Ass resolved that he would live only upon dew, and in a short time died of hunger.A LION was awakened from sleep by a Mouse running over his face.Rising up angrily, he caught him and was about to kill him, when the Mouse piteously entreated, saying:  "If you would only spare my life, I would be sure to repay your kindness."  The Lion laughed and let him go.  It happened shortly after this that the Lion was caught by some hunters, who bound him by st ropes to the ground.  The Mouse, recognizing his roar, came gnawed the rope with his teeth, and set him free, exclaim "You ridiculed the idea of my ever being able to help you, expecting to receive from me any repayment of your favor; I now you know that it is possible for even a Mouse to con benefits on a Lion."   A CHARCOAL-BURNER carried on his trade in his own house.  One day he met a friend, a Fuller, and entreated him to come and live with him, saying that they should be far better neighbors and that their housekeeping expenses would be lessened.  The Fuller replied, "The arrangement is impossible as far as I am concerned, for whatever I should whiten, you would immediately blacken again with your charcoal." Like will draw like.A FATHER had a family of sons who were perpetually quarreling among themselves.  When he failed to heal their disputes by his exhortations, he determined to give them a practical illustration of the evils of disunion; and for this purpose he one day told them to bring him a bundle of sticks.  When they had done so, he placed the faggot into the hands of each of them in succession, and ordered them to break it in pieces.  They tried with all their strength, and were not able to do it.  He next opened the faggot, took the sticks separately, one by one, and again put them into his sons' hands, upon which they broke them easily.  He then addressed them in these words:  "My sons, if you are of one mind, and unite to assist each other, you will be as this faggot, uninjured by all the attempts of your enemies; but if you are divided among yourselves, you will be broken as easily as these sticks." A BOY was hunting for locusts.  He had caught a goodly number, when he saw a Scorpion, and mistaking him for a locust, reached out his hand to take him.  The Scorpion, showing his sting, said: If you had but touched me, my friend, you would have lost me, and all your locusts too!"   A COCK, scratching for food for himself and his hens, found a precious stone and exclaimed:  "If your owner had found thee, and not I, he would have taken thee up, and have set thee in thy first estate; but I have found thee for no purpose.  I would rather have one barleycorn than all the jewels in the world."   THE BEASTS of the field and forest had a Lion as their king.  He was neither wrathful, cruel, nor tyrannical, but just and gentle as a king could be.  During his reign he made a royal proclamation for a general assembly of all the birds and beasts, and drew up conditions for a universal league, in which the Wolf and the Lamb, the Panther and the Kid, the Tiger and the Stag, the Dog and the Hare, should live together in perfect peace and amity.  The Hare said, "Oh, how I have longed to see this day, in which the weak shall take their place with impunity by the side of the strong."  And after the Hare said this, he ran for his life.A WOLF who had a bone stuck in his throat hired a Crane, for a large sum, to put her head into his mouth and draw out the bone.When the Crane had extracted the bone and demanded the promised payment, the Wolf, grinning and grinding his teeth, exclaimed: "Why, you have surely already had a sufficient recompense, in having been permitted to draw out your head in safety from the mouth and jaws of a wolf."   In serving the wicked, expect no reward, and be thankful if you escape injury for your pains.A FISHERMAN skilled in music took his flute and his nets to the seashore.  Standing on a projecting rock, he played several tunes in the hope that the fish, attracted by his melody, would of their own accord dance into his net, which he had placed below.At last, having long waited in vain, he laid aside his flute, and casting his net into the sea, made an excellent haul of fish.When he saw them leaping about in the net upon the rock he said: "O you most perverse creatures, when I piped you would not dance, but now that I have ceased you do so merrily."   
+

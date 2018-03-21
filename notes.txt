@@ -1,0 +1,20 @@
+21]
+G.A.
+Stephen.
+String
+Searching
+Algorithms
+
+[12] M. Crochemore and W. Rytter. Text Algorithms. Oxford University Press, Oxford,
+1994
+
+
+Parsing the text :
+
+Need to extract titles - numbered
+
+Need to extract sentences 
+
+Use getline - interesting problems - get consecutive blank lines, find a pattern to identify title
+
+getline and eof

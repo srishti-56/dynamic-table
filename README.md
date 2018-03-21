@@ -1,1 +1,1 @@
-# dynamic-table
+# Suffix trees
